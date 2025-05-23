@@ -6,7 +6,6 @@ import {
   getAuth,
   GoogleAuthProvider,
   signInWithPopup,
-  type idTokenResult,
   type IdTokenResult,
 } from "firebase/auth";
 
